@@ -3,7 +3,7 @@
 1. Download and install active perl from the given link:
 http://www.activestate.com/activeperl/downloads
 
-2. Download the SlowlorisAttack and unzip it.
+2. Download the SlowlorisAttack project from this page and unzip it.
 
 3. Open cmd and go to the folder SlowlorisAttack by the cmd.
 
